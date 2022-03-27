@@ -1,6 +1,6 @@
 ## Olá, Me chamo Nayron Gabriel. Seja bem-vindo ao meu Github
 
-- 🔭 Atualmente trabalho com marketing digital
+- 🔭 Tenho interesse na área de Mobile
 - 🌱 Estou cursão Sistema da informação
 - ⚡ Adoro desafios e estou sempre disposto a aprender!!
 <hr>
