@@ -5,7 +5,6 @@
 - ⚡ Adoro desafios e estou sempre disposto a aprender!!
 <hr>
 <div align = "center">
-  <h3>Trofeus </h3>
   <img src = "https://github-profile-trophy.vercel.app/?username=nayronmoura&theme=radical&no-bg=true"/>
  </div>
  <hr>
