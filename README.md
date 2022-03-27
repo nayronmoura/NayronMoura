@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente trabalho com marketing digital
 - 🌱 Estou cursão Sistema da informação
-- 😄 Pronomes: Ele/dele
 - ⚡ Adoro desafios e estou sempre disposto a aprender!!
 <hr>
 <div align="center">
