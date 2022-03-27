@@ -10,7 +10,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nayronmoura&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayronmoura&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
- <hr>
+<div align="center">
+  <img src="https://www.codewars.com/users/noryaN/badges/large"/>
+</div>
+<hr>
 <div align="center">
   <img align="center" alt="Nayron-Flutter" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img align="center" alt="Nayron-Java" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
