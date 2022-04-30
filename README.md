@@ -1,7 +1,6 @@
 ## Olá, Me chamo Nayron Gabriel. Seja bem-vindo ao meu Github
 
 - 🔭 Tenho interesse na área de Mobile
-- 🌱 Estou cursando Sistema da informação
 - ⚡ Adoro desafios e estou sempre disposto a aprender!!
 <hr>
 <div align = "center">
